@@ -13,6 +13,14 @@ bryan123@gmail.com.br
 ![image](https://user-images.githubusercontent.com/65303066/177056278-dff52ac8-fc39-418a-b96b-8cca2b10807b.png)
 ![image](https://user-images.githubusercontent.com/65303066/177056335-00f5f7fe-9fef-465b-bd1c-9db6ef5f4eb2.png)
 
+## Funcionalidades
+
+* cadastro de usuário
+* login
+* candidatar-se a uma viagem 
+* criar viagens
+* visualizar usuários candidatos a um viagem
+
 ## Tecnologias
 
 * framework: React
