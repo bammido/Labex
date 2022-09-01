@@ -20,6 +20,7 @@ bryan123@gmail.com.br
 * candidatar-se a uma viagem 
 * criar viagens
 * visualizar usuários candidatos a um viagem
+* tema escuro e claro
 
 ## Tecnologias
 
